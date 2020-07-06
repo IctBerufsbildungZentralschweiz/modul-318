@@ -152,3 +152,9 @@ Das ist schon alles. Starte das Programm, indem du auf den  ![](../.gitbook/asse
 
 ![](../.gitbook/assets/image%20%28161%29.png)
 
+
+
+## Weiterführende Infos
+
+{% file src="../.gitbook/assets/06\_visualstudio-einfu-hrung-1-.pdf" caption="Visual Studio Einführung" %}
+
