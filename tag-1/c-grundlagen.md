@@ -98,5 +98,10 @@ Lies das folgende Dokument \(ab Kapitel 2.\) durch, um deine Kenntnisse mit der 
 
 {% file src="../.gitbook/assets/03\_csharp-syntax-grundlagen.pdf" caption="C\# Syntax Grundlagen" %}
 
+### Ergänzung: String Interpolation
 
+```csharp
+var i = 5;
+var s = $"Die Zahl ist {i}.";
+```
 
