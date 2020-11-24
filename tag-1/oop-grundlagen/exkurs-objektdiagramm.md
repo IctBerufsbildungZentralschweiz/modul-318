@@ -10,7 +10,7 @@ Quelle: [http://mbse.se-rwth.de/book1/index.php?c=chapter4-1](http://mbse.se-rwt
 
 ## Beispiel
 
-In diesem Beispiel gehen wir das Beispiel aus [Aufgabe 11 der Übung C\# Grundlagen](../uebung-c-grundlagen.md#aufgabe-11) durch und zeichnen Schritt für Schritt ein Objektdiagramm. Wichtig dabei, das Objektdiagramm ist immer eine Momentaufnahme, es ändert sich also nach jeder Zeile Code, die ausgeführt wurde.
+In diesem Beispiel gehen wir das Beispiel aus [Aufgabe 11 der Übung C\# Grundlagen](../uebung-c-grundlagen.md#aufgabe-11) durch und zeichnen Schritt für Schritt ein Objektdiagramm. Wichtig dabei, das Objektdiagramm ist immer eine **Momentaufnahme**, es ändert sich also nach jeder Zeile Code, die ausgeführt wurde.
 
 Gegeben sind folgende Klassen:
 
