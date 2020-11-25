@@ -179,7 +179,7 @@ Erstelle eine Klasse, welche die Logik für dein Bankkonto enthält. Sie soll fo
 ```csharp
 public class BankAccount // Oder ‘Bankkonto’, je nach gewählter Sprache
 {
-    public decimal Balance { get; }
+    public decimal Balance { get; private set; }
     public bool Deposit(decimal amount) {...}
     public bool Withdraw(decimal amount) {...}
 }
