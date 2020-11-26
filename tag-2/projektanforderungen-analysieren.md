@@ -10,9 +10,9 @@ Du bist ein selbständiger Softwareentwickler und erhältst folgende Nachricht v
 >
 > Aus Ökologischen Gründen steht unseren Aussendienstmitarbeitenden kein Geschäftsauto zur Verfügung und sie gehen mit dem öffentlichen Verkehr zu Kundenbesuchen. Da wir vor zwei Jahren einige Fälle von Industriespionage erlebten, dürfen die Mitarbeitenden kein Smartphone mit sich tragen. Ihr einziges Arbeitsgerät ist ein Windows Tablet mit einer Spezialversion von Windows, die aus Sicherheitsgründen keinen Browser installiert hat.
 >
-> Dadurch müssen sie jeweils vor Abreise im Büro die Zugverbindungen ausdrucken. Bei spontanen Einsätzen oder Planänderungen können sie erst am Bahnhof sehen, welchen Zug sie nehmen müssen.
+> Dadurch müssen sie jeweils vor Abreise im Büro die ÖV-Verbindungen ausdrucken. Bei spontanen Einsätzen oder Planänderungen können sie erst am Bahnhof sehen, welchen Zug sie nehmen müssen.
 >
-> Um diese Situation zu verbessern, möchten wir für unsere Aussendienstmitarbeitenden eine Software erstellen lassen, die es ihnen ermöglicht, schnell eine Zugverbindung zu suchen. Sie soll auf ihren Windows 10 Tablets benutzt werden können.
+> Um diese Situation zu verbessern, möchten wir für unsere Aussendienstmitarbeitenden eine Software erstellen lassen, die es ihnen ermöglicht, schnell eine ÖV-Verbindung zu suchen. Sie soll auf ihren Windows 10 Tablets benutzt werden können.
 >
 > Können wir uns mal zu einem Gespräch treffen?
 >
