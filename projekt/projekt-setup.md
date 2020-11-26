@@ -5,7 +5,7 @@
 Zuerst musst du einen Fork des Repos in deinem eigenen Github Account erstellen. Über diesen Account wirst du das Projekt am Ende des Kurses abgeben.
 
 * Falls du noch keinen github account erstellt hast, erstelle jetzt einen.
-* Gehe zur Projektvorlage auf Github und erstelle einen Fork in deinen Account:
+* Gehe zur [Projektvorlage](https://github.com/IctBerufsbildungZentralschweiz/modul-318-student) auf Github und erstelle einen Fork in deinen Account:
 
 ![](../.gitbook/assets/image%20%28100%29.png)
 
