@@ -67,7 +67,7 @@ Die Bewertung stellt sich aus folgenden Bestandteilen zusammen:
           <li>Ist eine eigene User Story vorhanden?</li>
           <li>Hat jede User Story einen Status (umgesetzt / nicht umgesetzt)?</li>
           <li>Sind die <b>Mockups</b> vorhanden und gut?</li>
-          <li>Ist das <b>Aktivit&#xE4;tsdiagramme</b> vorhanden, sinnvoll und kurz beschrieben?</li>
+          <li>Ist das <b>Aktivit&#xE4;tsdiagramm</b> vorhanden, sinnvoll und kurz beschrieben?</li>
           <li>Ist beschrieben, wie die Software <b>installiert</b> werden kann?</li>
           <li>Ist die Dokumentation <b>vollst&#xE4;ndig und sauber</b>?</li>
           <li>Sind die <b>Testf&#xE4;lle</b> (Testplan) vorhanden und sinnvoll?</li>
