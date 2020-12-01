@@ -28,8 +28,8 @@ Die Bewertung stellt sich aus folgenden Bestandteilen zusammen:
         <ul>
           <li>Wie <b>effizient</b> l&#xE4;uft das Programm? Keine langen Reaktionszeiten
             oder lange Netzwerkcalls</li>
-          <li>Ist der Code <b>wartbar</b>? H&#xE4;lt er sich an die <b>Coding-Guidelines</b> aus
-            der Dokumentation?</li>
+          <li>Ist der Code <b>wartbar</b>? H&#xE4;lt er sich an die <b>Coding-Guidelines</b> von
+            Microsoft??</li>
           <li>Wurde <b>Objektorientierte Programmierung</b> eingesetzt? Gibt es eine eigene
             Klasse?</li>
           <li><b>Kompilliert</b> der Code?</li>
