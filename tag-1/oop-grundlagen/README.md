@@ -157,7 +157,7 @@ public class Person
     // Methode, die welche die Imlementation der Basisklasse überschreibt.
     public override string ToString()
     {
-        return this.Name + " (" + this.Age() + ")" ;
+        return this.Name + " (" + this.GetAge() + ")" ;
     }
 }
 ```
