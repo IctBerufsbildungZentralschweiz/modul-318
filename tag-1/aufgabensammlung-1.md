@@ -1,13 +1,5 @@
 # 💡📖 Aufgabensammlung
 
-Noch etwas überarbeiten
-
-Etwas expliziter auf Level aufweisen bzw. Schwierigkeiten, sodass bessere Schüler mit schwereren Aufgaben beginnen können.
-
-
-
-
-
 ## Info
 
 Unten stehen sechs Aufgaben. Es ist empfohlen, dass alle Aufgaben in der selben Projektmappe \(Solution\) gelöst werden. In der Projektmappe soll pro Aufgabe ein Projekt angelegt werden. Du kannst wählen, welches Projekt ausgeführt wird, indem du folgenden Anweisungen folgst: [❓FAQ](../faq/#wie-kann-ich-waehlen-welches-meiner-projekte-ausgefuehrt-wird) \(Wie kann ich wählen, welches meiner Projekte ausgeführt wird?\).
@@ -212,7 +204,7 @@ Der aktuelle Kontostand soll nun nicht nur angezeigt, sondern auch in einer Date
 
 Entwickle eine Stoppuhr. Sie soll aus einer Zeitanzeige \(hh:mm:ss\), zwei Buttons und einer ListBox bestehen. Sie soll den folgenden Ablauf abbilden können:
 
-![Ausgangslage](../.gitbook/assets/grafik%20%2823%29.png)
+![Ausgangslage](../.gitbook/assets/grafik%20%2822%29%20%281%29.png)
 
 ![Stoppuhr l&#xE4;uft](../.gitbook/assets/grafik%20%287%29.png)
 

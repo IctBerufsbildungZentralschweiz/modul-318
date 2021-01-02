@@ -87,7 +87,7 @@ Siehe Tab "Lösungsweg" für weitere Details zum Lösungsweg.
 {% tab title="Lösungsweg" %}
 #### Lösungsweg
 
-![](../.gitbook/assets/image%20%28152%29.png)
+![](../.gitbook/assets/image%20%2877%29%20%281%29.png)
 
 ![](../.gitbook/assets/image%20%2854%29.png)
 

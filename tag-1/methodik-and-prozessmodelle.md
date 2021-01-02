@@ -38,7 +38,7 @@ In 2er-Gruppen diskutiert Ihr, warum IT-Projekte schief gehen können. Schreibt 
 
 Präsentiert anschliessend eure Erkenntnisse der Klasse.
 
-![](../.gitbook/assets/image%20%2899%29.png)
+![](../.gitbook/assets/image%20%2899%29%20%281%29.png)
 
 
 

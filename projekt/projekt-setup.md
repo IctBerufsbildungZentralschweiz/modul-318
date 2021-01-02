@@ -7,7 +7,7 @@ Zuerst musst du einen Fork des Repos in deinem eigenen Github Account erstellen.
 * Falls du noch keinen github account erstellt hast, erstelle jetzt einen.
 * Gehe zur [Projektvorlage](https://github.com/IctBerufsbildungZentralschweiz/modul-318-student) auf Github und erstelle einen Fork in deinen Account:
 
-![](../.gitbook/assets/image%20%28100%29.png)
+![](../.gitbook/assets/image%20%28138%29.png)
 
 * Jetzt sollte es automatisch auf das frisch geforkte Projekt in deinem github Profil wechseln. 
 * Da klickst du `Clone or download` und anschliessend kopierst du die URL im Textfeld.

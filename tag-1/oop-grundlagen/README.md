@@ -34,12 +34,10 @@ Bereits 1985 wurde die erste Version des ISO/IEC 2382-15 Standards beschrieben. 
 Die komplette ISO kann hier gefunden werden: [ISO/IEC 2382-15](https://www.iso.org/obp/ui/#iso:std:iso-iec:2382:ed-1:v1:en)
 
 {% hint style="info" %}
-Bernd Oestereich \(Fachbuchautor\): 
+Bernd Oestereich \(Fachbuchautor\):
 
 «Die Objektorientierung heisst Objektorientierung, weil diese Methode die in der realen Welt vorkommenden Gegenstände als Objekte ansieht. Ein Telefon ist genauso ein Objekt wie ein Fahrrad, ein Mensch oder eine Versicherungspolice. Und diese Objekte setzen sich wiederum aus anderen Objekten zusammen, nämlich aus Schrauben, Rädern, Ohren, Tarifen und so weiter.»
 {% endhint %}
-
-
 
 ## Grundlagen & Begriffe
 
@@ -72,10 +70,7 @@ Bernd Oestereich \(Fachbuchautor\):
         <img src="../../.gitbook/assets/image (1).png" alt/>
       </td>
       <td style="text-align:left">
-        <p></p>
-        <p>
-          <img src="../../.gitbook/assets/image (3).png" alt/>
-        </p>
+        <img src="../../.gitbook/assets/image (3).png" alt/>
       </td>
     </tr>
     <tr>
@@ -86,7 +81,7 @@ Bernd Oestereich \(Fachbuchautor\):
       <td style="text-align:left">
         <p><code>public class Auto {</code>
         </p>
-        <p><code>  // ...</code>
+        <p> <code>// ...</code>
         </p>
         <p><code>}</code>
         </p>
@@ -103,7 +98,7 @@ Bernd Oestereich \(Fachbuchautor\):
 
 Zwei Autos werden einem Bauplan erstellt, können dann aber unterschiedliche **Eigenschaften** haben \(z.B. Farbe, Geschwindigkeit, usw.\). Genauso können zwei Objekte einer bestimmten Klasse erstellt werden, aber unterschiedliche Eigenschaften haben.
 
-Analogie "Kuchen backen":  Ausgehend von einem bestimmten Kuchenrezept \(vgl. Klasse\) lassen sich beliebig viele gleichartige Kuchen \(vgl. Objekte\) backen \(vgl. erzeugen\).
+Analogie "Kuchen backen": Ausgehend von einem bestimmten Kuchenrezept \(vgl. Klasse\) lassen sich beliebig viele gleichartige Kuchen \(vgl. Objekte\) backen \(vgl. erzeugen\).
 
 ![](../../.gitbook/assets/image%20%28110%29.png)
 
@@ -112,8 +107,6 @@ Analogie "Kuchen backen":  Ausgehend von einem bestimmten Kuchenrezept \(vgl. Kl
 * Objekte werden ausgehend von Klassen erzeugt und zwar automatisch und erst zur Laufzeit.
 * Zur Laufzeit hat man es mit Objekten zu tun, die miteinander interagieren.
 {% endhint %}
-
-
 
 ## Klassendefinition in C\#
 
@@ -127,7 +120,7 @@ public class Person
 {
     // Felder
     private string _name;
-    
+
     // Eigenschaften
     public string Name { 
         get {
@@ -135,7 +128,7 @@ public class Person
         }
     }
     public DateTime Birthday { get; }
-    
+
     // Konstruktor ohne Parameter
     public Person()
     {
@@ -148,7 +141,7 @@ public class Person
         this.Name = name;
         this.Birthday = birthday;
     }
-    
+
     // Methode, die das aktuelle Alter berechnet.
     public int GetAge() {
         return (new DateTime()).Year - this.Birthday.Year;
@@ -179,7 +172,7 @@ public class Person
 {
     // Eigenschaften
     public string Name { get; }
-    
+
     // Konstruktor ohne Parameter
     public Person()
     {
@@ -191,7 +184,7 @@ public class Person
 Person p1 = new Person();
 ```
 
-Mithilfe des `new` Keywords wird hier ein neues Objekt der Klasse `Person` erzeugt. 
+Mithilfe des `new` Keywords wird hier ein neues Objekt der Klasse `Person` erzeugt.
 
 Dieses Beispiel hat einen Konstruktor mit einem Parameter:
 
@@ -199,7 +192,7 @@ Dieses Beispiel hat einen Konstruktor mit einem Parameter:
 public class Baum 
 {
     private int _hoehe;
-    
+
     public Baum (int hoehe) {
         this._hoehe = hoehe;
     }
@@ -208,7 +201,7 @@ public class Baum
 Baum b1 = new Baum(55);
 ```
 
-Hier wird mithilfe des `new` Keywords ein neues Objekt der  Klasse `Baum` erzeugt. Dabei wird ein **Parameter** übergeben.
+Hier wird mithilfe des `new` Keywords ein neues Objekt der Klasse `Baum` erzeugt. Dabei wird ein **Parameter** übergeben.
 
 ### Attribute
 
@@ -228,7 +221,7 @@ Eigenschaften sind \(in der Regel\) nach aussen verfügbar. Im Grunde machen sie
 
 ```csharp
 private string _name;
-    
+
 public string Name { 
     get {
         return _name;
@@ -269,8 +262,6 @@ public int Alter { get; }
 Der Wert eines Read only Auto-Properties kann nur im Konstruktor gesetzt werden.
 {% endhint %}
 
-
-
 ## Objektinteraktion
 
 Wenn eine Klasse existiert, erstellen wir mittels des `new` Keywords eine Instanz \(also ein Objekt\) dieser Klasse:
@@ -286,8 +277,6 @@ var alter = p1.Alter;
 var asText = p1.ToString();
 ```
 
-
-
 ## Vorteile der Objektorientierten Programmierung
 
 ### Wiederverwendbarkeit
@@ -301,8 +290,6 @@ Eine Klasse kapselt ihre Daten sowie die interne Implementierung ihrer Methoden 
 ### Fehleranfälligkeit
 
 Die Kapselung bewirkt, dass Objekte den Zugriff auf die Daten selbst kontrollieren und eine fehlerhafte Datenmanipulation und die daraus resultierende Inkonsistenz abwehren können.
-
-
 
 ## 💡 Kontrollfragen
 
@@ -351,6 +338,4 @@ Wie erstellt man ein Objekt?
 Mit dem `new` Keyword.
 {% endtab %}
 {% endtabs %}
-
-
 

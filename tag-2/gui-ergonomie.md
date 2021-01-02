@@ -154,7 +154,7 @@ Gruppe 3: **Fehlerbewusstheit** und **Gewohntheit**
 
 Zeit: 20min
 
-![](../.gitbook/assets/image%20%2862%29.png)
+![](../.gitbook/assets/image%20%2899%29.png)
 
 
 
