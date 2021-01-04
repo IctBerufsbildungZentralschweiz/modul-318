@@ -81,7 +81,7 @@ Folgendes soll Für die **Benutzerfreundlichkeit** beachtet werden:
 
 Folgendes sollte zur **allgemeinen Codequalität** beachtet werden:
 
-* Magic Strings: Strings, welche direkt in einer Statement hart kodiert sind und das Verhalten der Anwendung steuern. Diese sollen via Konstanten oder Variablen abgebildet werden. Mehr, siehe: [https://deviq.com/magic-strings/](https://deviq.com/magic-strings/)
+* Magic Strings: Strings, welche direkt in einer Statement hart kodiert sind und das Verhalten der Anwendung steuern. Diese sollen via Konstanten oder Variablen abgebildet werden. Mehr, siehe: [https://deviq.com/magic-strings/](https://deviq.com/antipatterns/magic-strings)
 * Redundante Strings: Wenn ein String doppelt in der Anwendung vorkommt soll er via Konstanten oder Variablen ausgelagert und nur einmalig deklariert werden. Dies gilt doppelt für Magic Strings.
 * Die Einrückung soll immer gleich sein \(Standard im Visual Studio: 4 Tabs pro geschachteltem Codeblock\)
 
