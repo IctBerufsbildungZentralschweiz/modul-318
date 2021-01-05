@@ -150,7 +150,7 @@ Teilt euch in 3 Gruppen auf und erläutert bezogen auf eure Aspekte
 
 Gruppe 1:  Aspekt **Übersichtlichkeit** und **Sebsterklärend**  
 Gruppe 2: Aspekt **Logischer Aufbau** und **Komfortabilität**  
-Gruppe 3: **Fehlerbewusstheit** und **Gewohntheit**
+Gruppe 3: **Fehlerbewusstheit** und **Gewohnheit**
 
 Zeit: 20min
 
