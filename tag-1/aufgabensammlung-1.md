@@ -200,7 +200,7 @@ Der aktuelle Kontostand soll nun nicht nur angezeigt, sondern auch in einer Date
 ### Themen
 
 * Timer
-* Anwendung mit mehreren möglichen Status abbilden
+* Anwendung mit mehreren möglichen Zuständen abbilden
 
 Entwickle eine Stoppuhr. Sie soll aus einer Zeitanzeige \(hh:mm:ss\), zwei Buttons und einer ListBox bestehen. Sie soll den folgenden Ablauf abbilden können:
 
