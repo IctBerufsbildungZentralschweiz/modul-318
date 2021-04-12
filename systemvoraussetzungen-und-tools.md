@@ -8,7 +8,7 @@ description: >-
 
 ## Kursunterlagen <a id="moodle-kurse-ict-bz"></a>
 
-Dieses Gitbook findet Ihr unter [m318.niceapps.ch](http://m318.niceapps.ch/) 
+Dieses Gitbook findet Ihr unter [m318.ict-bz.ch](https://m318.ict-bz.ch)
 
 Theorieinputs und Aufgaben sind hier nach Tag gruppiert. Da sich die Projektarbeit über mehrere Tage zieht, hat sie ihre eigene Gruppe bekommen in der Navigation.
 

@@ -21,7 +21,7 @@ Die Bewertung stellt sich aus folgenden Bestandteilen zusammen:
 | **Praktische Umsetzungsarbeit** | **100%** |
 |       Funktionalität |   20% |
 |       Code |   20% |
-|       GUI / Benutzerfreudnlichkeit |   20% |
+|       GUI / Benutzerfreundlichkeit |   20% |
 |       Dokumentation |   40% |
 
 
