@@ -66,7 +66,7 @@ public class Person
 ```csharp
 public class person
 {
-    private string name { get; private set; }
+    public string name { get; private set; }
     
     public string rename(string newname)
     {
