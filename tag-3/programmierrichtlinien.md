@@ -68,7 +68,7 @@ public class person
 {
     public string name { get; private set; }
     
-    public string rename(string newname)
+    public void rename(string newname)
     {
         this.name = newname;
     }
